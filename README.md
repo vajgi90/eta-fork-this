@@ -1,4 +1,4 @@
 # eta-fork-this
 
 ## Ide lehet az itt jartam tageket rakni
-#itt jartam, dori
+itt jartam, dori
