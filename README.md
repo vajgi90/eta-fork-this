@@ -3,8 +3,10 @@ Itt jártam. Nóri
 
 ## Ide lehet az itt jartam tageket rakni
 
+itt jartam, dori
+
 ## Józsi itt járt
-=======
+
 
 
 jano wuz here
